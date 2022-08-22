@@ -13,4 +13,4 @@ Languages and Tools:
 
 Socials networks:
 
-[![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/Anthony_Evseev)
+[![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=black)](https://t.me/Anthony_Evseev)
