@@ -10,3 +10,7 @@ Languages and Tools:
 ![Postman](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=Postman)
 ![Git](https://img.shields.io/badge/Git-090909?style=for-the-badge&logo=Git)
 ![Redis](https://img.shields.io/badge/Redis-090909?style=for-the-badge&logo=Redis)
+
+Socials networks:
+
+[![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/Anthony_Evseev)
