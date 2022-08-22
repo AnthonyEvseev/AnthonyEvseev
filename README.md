@@ -13,4 +13,7 @@ Languages and Tools:
 
 Socials networks:
 
-[![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=black)](https://t.me/Anthony_Evseev)
+[![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/Anthony_Evseev)
+[![twitter](https://img.shields.io/badge/twitter-090909?style=for-the-badge&logo=twitter)](https://twitter.com/Anthony__Evseev)
+[![VK](https://img.shields.io/badge/VK-090909?style=for-the-badge&logo=VK)](https://vk.com/anthony_evseev)
+[![linkedin](https://img.shields.io/badge/linkedin-090909?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anthony-evseev-033383239/)
