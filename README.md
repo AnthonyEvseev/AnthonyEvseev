@@ -5,3 +5,5 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-090909?style=for-the-badge&logo=FastAPI)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-090909?style=for-the-badge&logo=PostgreSQL)
 ![Postman](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=Postman)
+![Git](https://img.shields.io/badge/Git-090909?style=for-the-badge&logo=Git)
+![Redis](https://img.shields.io/badge/Redis-090909?style=for-the-badge&logo=Redis)
